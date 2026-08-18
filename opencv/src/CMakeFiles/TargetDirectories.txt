@@ -1,0 +1,3 @@
+/home/monika/c++/opencv/src/CMakeFiles/BadApple.dir
+/home/monika/c++/opencv/src/CMakeFiles/edit_cache.dir
+/home/monika/c++/opencv/src/CMakeFiles/rebuild_cache.dir
