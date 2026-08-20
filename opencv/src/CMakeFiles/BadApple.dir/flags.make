@@ -6,5 +6,5 @@ CXX_DEFINES =
 
 CXX_INCLUDES = -I/home/monika/c++/opencv/include -I/home/monika/c++/opencv/opencv_core -I/home/monika/c++/opencv/opencv_imgproc -I/home/monika/c++/opencv/opencv_highgui -I/home/monika/c++/opencv/opencv_imgcodecs -isystem /usr/include/opencv5
 
-CXX_FLAGS = -O3 -march=native
+CXX_FLAGS = -O3
 

@@ -466,121 +466,16 @@ CMakeFiles/BadApple.dir/main.cpp.o: main.cpp \
   /usr/include/time.h \
   /usr/include/wchar.h \
   /usr/include/wctype.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/adxintrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/amxavx512intrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/amxbf16intrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/amxcomplexintrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/amxfp16intrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/amxfp8intrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/amxint8intrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/amxmovrsintrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/amxtf32intrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/amxtileintrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/avx10_2bf16intrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/avx10_2convertintrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/avx10_2copyintrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/avx10_2mediaintrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/avx10_2minmaxintrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/avx10_2satcvtintrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/avx2intrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/avx512bf16intrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/avx512bf16vlintrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/avx512bitalgintrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/avx512bitalgvlintrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/avx512bmmintrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/avx512bmmvlintrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/avx512bwintrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/avx512cdintrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/avx512dqintrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/avx512fintrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/avx512fp16intrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/avx512fp16vlintrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/avx512ifmaintrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/avx512ifmavlintrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/avx512vbmi2intrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/avx512vbmi2vlintrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/avx512vbmiintrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/avx512vbmivlintrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/avx512vlbwintrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/avx512vldqintrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/avx512vlintrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/avx512vnniintrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/avx512vnnivlintrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/avx512vp2intersectintrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/avx512vp2intersectvlintrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/avx512vpopcntdqintrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/avx512vpopcntdqvlintrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/avxifmaintrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/avxintrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/avxneconvertintrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/avxvnniint16intrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/avxvnniint8intrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/avxvnniintrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/bmi2intrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/bmiintrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/cetintrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/cldemoteintrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/clflushoptintrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/clwbintrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/clzerointrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/cmpccxaddintrin.h \
   /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/emmintrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/enqcmdintrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/f16cintrin.h \
   /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/float.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/fmaintrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/fxsrintrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/gfniintrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/hresetintrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/ia32intrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/immintrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/keylockerintrin.h \
   /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/limits.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/lwpintrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/lzcntintrin.h \
   /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/mm_malloc.h \
   /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/mmintrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/movdirintrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/movrsintrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/mwaitintrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/mwaitxintrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/pconfigintrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/pkuintrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/pmmintrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/popcntintrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/prfchiintrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/prfchwintrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/raointintrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/rdseedintrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/rtmintrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/serializeintrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/sgxintrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/sha512intrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/shaintrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/sm3intrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/sm4intrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/smmintrin.h \
   /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/stdarg.h \
   /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/stddef.h \
   /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/stdint.h \
   /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/syslimits.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/tbmintrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/tmmintrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/tsxldtrkintrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/uintrintrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/usermsrintrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/vaesintrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/vpclmulqdqintrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/waitpkgintrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/wbnoinvdintrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/wmmintrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/x86gprintrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/xmmintrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/xsavecintrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/xsaveintrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/xsaveoptintrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/xsavesintrin.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/xtestintrin.h
+  /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/xmmintrin.h
 
 bin/BadApple: /usr/lib/Scrt1.o \
   /usr/lib/crti.o \
@@ -873,9 +768,13 @@ CMakeFiles/BadApple.dir/main.cpp.o:
 
 /usr/lib32/libva-drm.so.2:
 
+/usr/lib32/libpcre2-8.so.0:
+
 /usr/lib32/libp11-kit.so.0:
 
 /usr/lib32/libnettle.so.9:
+
+/usr/lib32/liblzma.so.5:
 
 /usr/lib32/libicudata.so.78:
 
@@ -894,6 +793,8 @@ CMakeFiles/BadApple.dir/main.cpp.o:
 /usr/lib32/libunistring.so.5:
 
 /usr/lib32/libelf.so.1:
+
+/usr/lib32/libdw.so.1:
 
 /usr/lib32/libcrypto.so.3:
 
@@ -914,6 +815,8 @@ CMakeFiles/BadApple.dir/main.cpp.o:
 /usr/lib32/libidn2.so.0:
 
 /usr/lib32/libGLdispatch.so.0:
+
+/usr/lib32/libGLX.so.0:
 
 /usr/lib/pulseaudio/libpulsecommon-17.0.so:
 
@@ -1039,6 +942,8 @@ CMakeFiles/BadApple.dir/main.cpp.o:
 
 /usr/lib/libhwy.so.1:
 
+/usr/lib/libharfbuzz.so.0:
+
 /usr/lib/libgstvideo-1.0.so.0:
 
 /usr/lib/libgsttag-1.0.so.0:
@@ -1059,6 +964,8 @@ CMakeFiles/BadApple.dir/main.cpp.o:
 
 /usr/lib/libglslang.so.16:
 
+/usr/lib/libglib-2.0.so.0:
+
 /usr/lib/libgfortran.so.5:
 
 /usr/lib/libgdk_pixbuf-2.0.so.0:
@@ -1066,6 +973,8 @@ CMakeFiles/BadApple.dir/main.cpp.o:
 /usr/lib/libfribidi.so.0:
 
 /usr/lib/libfontconfig.so.1:
+
+/usr/lib/libexpat.so.1:
 
 /usr/lib/libelf.so.1:
 
@@ -1097,160 +1006,6 @@ CMakeFiles/BadApple.dir/main.cpp.o:
 
 /usr/lib/libcairo.so.2:
 
-/usr/lib/libbsd.so.0:
-
-/usr/lib/libbs2b.so.0:
-
-/usr/lib/libbrotlienc.so.1:
-
-/usr/lib/libbrotlicommon.so.1:
-
-/usr/lib/libblas.so.3:
-
-/usr/lib/libb2.so.1:
-
-/usr/lib/libavutil.so.61:
-
-/usr/lib/libavformat.so.63:
-
-/usr/lib/libavfilter.so.12:
-
-/usr/lib/libavdevice.so.63:
-
-/usr/lib/libavcodec.so.63:
-
-/usr/lib/libasyncns.so.0:
-
-/usr/lib/libv4lconvert.so.0:
-
-/usr/lib/libaom.so.3:
-
-/usr/lib/libXrender.so.1:
-
-/usr/lib/libXfixes.so.3:
-
-/usr/lib/libXext.so.6:
-
-/usr/lib/libXdmcp.so.6:
-
-/usr/lib/libglslang-default-resource-limits.so.16:
-
-/usr/lib/libX11-xcb.so.1:
-
-/usr/lib/libSvtAv1Enc.so.4:
-
-/usr/lib/libSPIRV-Tools-opt.so:
-
-/usr/lib/libxcb.so.1:
-
-/usr/lib/libQt6Test.so.6:
-
-/usr/lib/libQt6OpenGL.so.6:
-
-/usr/lib/libwebpmux.so.3:
-
-/usr/lib/libOpenGL.so.0:
-
-/usr/lib/libOpenCL.so.1:
-
-/usr/lib/libIlmThread-3_4.so.33:
-
-/usr/lib32/libXau.so.6:
-
-/usr/lib/liblcms2.so.2:
-
-/usr/lib/libIex-3_4.so.33:
-
-/usr/lib/libGLX.so.0:
-
-/usr/lib/libffi.so.8:
-
-/usr/lib/libGL.so.1:
-
-/usr/lib/libtasn1.so.6:
-
-/usr/lib/ld-linux-x86-64.so.2:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/libgcc_s.so:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/libgcc.a:
-
-/usr/lib/libbrotlidec.so.1:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/libatomic_asneeded.so:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/libatomic.so:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/crtendS.o:
-
-/usr/lib/libm.so:
-
-/usr/lib32/libexpat.so.1:
-
-/usr/lib/crti.o:
-
-/usr/lib/Scrt1.o:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/xsavesintrin.h:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/xsaveintrin.h:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/xsavecintrin.h:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/xmmintrin.h:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/x86gprintrin.h:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/xtestintrin.h:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/wmmintrin.h:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/wbnoinvdintrin.h:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/waitpkgintrin.h:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/vpclmulqdqintrin.h:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/crtbeginS.o:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/vaesintrin.h:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/usermsrintrin.h:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/uintrintrin.h:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/tmmintrin.h:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/tbmintrin.h:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/smmintrin.h:
-
-/usr/lib/libexpat.so.1:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/sm3intrin.h:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/sha512intrin.h:
-
-/usr/lib32/libpcre2-8.so.0:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/sgxintrin.h:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/serializeintrin.h:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/rtmintrin.h:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/raointintrin.h:
-
-/usr/lib32/libGLX.so.0:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/prfchiintrin.h:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/pmmintrin.h:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/pkuintrin.h:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/mwaitintrin.h:
-
 /usr/include/bits/thread-shared-types.h:
 
 /usr/include/c++/16/ext/string_conversions.h:
@@ -1271,13 +1026,7 @@ CMakeFiles/BadApple.dir/main.cpp.o:
 
 /usr/include/c++/16/debug/debug.h:
 
-/usr/lib/libc.so:
-
-/usr/include/asm-generic/types.h:
-
 /usr/include/asm-generic/bitsperlong.h:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/pconfigintrin.h:
 
 /usr/include/c++/16/ext/alloc_traits.h:
 
@@ -1305,9 +1054,11 @@ CMakeFiles/BadApple.dir/main.cpp.o:
 
 /usr/include/c++/16/concepts:
 
+/usr/include/c++/16/bits/ranges_util.h:
+
 /usr/include/c++/16/utility:
 
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/avx512ifmaintrin.h:
+/usr/lib/libSvtAv1Enc.so.4:
 
 /usr/include/c++/16/compare:
 
@@ -1318,6 +1069,8 @@ CMakeFiles/BadApple.dir/main.cpp.o:
 /usr/include/c++/16/bits/unique_ptr.h:
 
 /usr/include/bits/endian.h:
+
+/usr/include/c++/16/bits/streambuf_iterator.h:
 
 /usr/include/c++/16/bits/stl_vector.h:
 
@@ -1332,6 +1085,8 @@ CMakeFiles/BadApple.dir/main.cpp.o:
 /usr/include/c++/16/bits/stl_pair.h:
 
 /usr/include/bits/locale.h:
+
+/usr/include/opencv5/opencv2/stitching/detail/matchers.hpp:
 
 /usr/include/c++/16/ext/numeric_traits.h:
 
@@ -1349,25 +1104,11 @@ CMakeFiles/BadApple.dir/main.cpp.o:
 
 /usr/include/c++/16/bits/stl_algobase.h:
 
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/lwpintrin.h:
+/usr/include/c++/16/bits/stdexcept_throw.h:
 
 /usr/include/c++/16/bits/std_mutex.h:
 
 /usr/include/c++/16/bits/atomic_base.h:
-
-/usr/lib/libvulkan.so.1:
-
-/usr/lib/libOpenEXR-3_4.so.33:
-
-/usr/include/c++/16/bits/sstream.tcc:
-
-/usr/lib/libgstapp-1.0.so.0:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/stdarg.h:
-
-/usr/include/c++/16/bits/stl_uninitialized.h:
-
-/usr/include/c++/16/cstring:
 
 /usr/include/c++/16/bits/specfun.h:
 
@@ -1407,6 +1148,8 @@ CMakeFiles/BadApple.dir/main.cpp.o:
 
 /usr/include/c++/16/cstddef:
 
+/usr/include/c++/16/format:
+
 /usr/include/opencv5/opencv2/stitching/warpers.hpp:
 
 /usr/include/c++/16/bits/align.h:
@@ -1416,14 +1159,6 @@ CMakeFiles/BadApple.dir/main.cpp.o:
 /usr/include/c++/16/charconv:
 
 /usr/include/c++/16/bits/predefined_ops.h:
-
-/usr/lib/libass.so.9:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/syslimits.h:
-
-/usr/include/c++/16/bits/ostream.h:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/mwaitxintrin.h:
 
 /usr/include/c++/16/bits/locale_facets_nonio.h:
 
@@ -1447,23 +1182,19 @@ CMakeFiles/BadApple.dir/main.cpp.o:
 
 /usr/include/c++/16/bits/move.h:
 
+/usr/include/c++/16/bits/postypes.h:
+
+/usr/include/opencv5/opencv2/opencv.hpp:
+
 /usr/include/c++/16/bits/max_size_type.h:
 
 /usr/include/c++/16/bits/intcmp.h:
-
-/usr/lib32/liblzma.so.5:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/avx512vbmi2vlintrin.h:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/shaintrin.h:
 
 /usr/include/c++/16/bits/stringfwd.h:
 
 /usr/include/opencv5/opencv2/flann/ground_truth.h:
 
-/usr/include/c++/16/bits/streambuf_iterator.h:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/avx2intrin.h:
+/usr/include/bits/mathcalls-narrow.h:
 
 /usr/lib32/libxcb-xfixes.so.0:
 
@@ -1475,7 +1206,7 @@ CMakeFiles/BadApple.dir/main.cpp.o:
 
 /usr/include/c++/16/climits:
 
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/amxbf16intrin.h:
+/usr/lib/libXfixes.so.3:
 
 /usr/include/c++/16/bits/formatfwd.h:
 
@@ -1489,17 +1220,15 @@ CMakeFiles/BadApple.dir/main.cpp.o:
 
 /usr/include/c++/16/x86_64-pc-linux-gnu/bits/gthr-default.h:
 
-/usr/lib/libc_nonshared.a:
-
-/usr/include/c++/16/bits/uniform_int_dist.h:
-
-/usr/include/c++/16/bits/ostream.tcc:
+/usr/lib/gcc/x86_64-pc-linux-gnu/16/crtbeginS.o:
 
 /usr/include/pthread.h:
 
 /usr/include/c++/16/bits/localefwd.h:
 
 /usr/include/c++/16/unordered_map:
+
+/usr/include/bits/types/time_t.h:
 
 /usr/lib/libgmp.so.10:
 
@@ -1515,6 +1244,8 @@ CMakeFiles/BadApple.dir/main.cpp.o:
 
 /usr/include/features.h:
 
+/usr/include/bits/stdlib-bsearch.h:
+
 /usr/include/opencv5/opencv2/core/cvstd.hpp:
 
 /usr/include/c++/16/bits/locale_classes.tcc:
@@ -1524,8 +1255,6 @@ CMakeFiles/BadApple.dir/main.cpp.o:
 /usr/include/c++/16/ostream:
 
 /usr/include/c++/16/pstl/pstl_config.h:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/xsaveoptintrin.h:
 
 /usr/include/c++/16/bits/stl_list.h:
 
@@ -1543,10 +1272,6 @@ CMakeFiles/BadApple.dir/main.cpp.o:
 
 /usr/include/bits/setjmp.h:
 
-/usr/lib/libbluray.so.3:
-
-/usr/include/c++/16/x86_64-pc-linux-gnu/bits/c++config.h:
-
 /usr/lib/libseccomp.so.2:
 
 /usr/include/bits/types/struct___jmp_buf_tag.h:
@@ -1563,8 +1288,6 @@ CMakeFiles/BadApple.dir/main.cpp.o:
 
 /usr/include/opencv5/opencv2/objdetect/aruco_board.hpp:
 
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/fxsrintrin.h:
-
 /usr/include/c++/16/bits/stl_construct.h:
 
 /usr/lib/libgstriff-1.0.so.0:
@@ -1572,8 +1295,6 @@ CMakeFiles/BadApple.dir/main.cpp.o:
 /usr/include/bits/xopen_lim.h:
 
 /usr/lib/libgstpbutils-1.0.so.0:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/rdseedintrin.h:
 
 /usr/include/c++/16/bits/memoryfwd.h:
 
@@ -1585,6 +1306,10 @@ CMakeFiles/BadApple.dir/main.cpp.o:
 
 /usr/include/bits/pthreadtypes.h:
 
+/usr/include/asm-generic/types.h:
+
+/usr/lib/libc.so:
+
 /usr/include/c++/16/backward/auto_ptr.h:
 
 /usr/lib32/libvulkan.so.1:
@@ -1593,7 +1318,13 @@ CMakeFiles/BadApple.dir/main.cpp.o:
 
 /usr/include/wchar.h:
 
+/usr/lib/libbrotlicommon.so.1:
+
 /usr/include/bits/stdio.h:
+
+/usr/lib/libpangoft2-1.0.so.0:
+
+/usr/include/opencv5/opencv2/core/check.hpp:
 
 /usr/include/opencv5/opencv2/highgui.hpp:
 
@@ -1607,11 +1338,13 @@ CMakeFiles/BadApple.dir/main.cpp.o:
 
 /usr/include/bits/time.h:
 
+/usr/include/asm/bitsperlong.h:
+
+/usr/include/c++/16/semaphore:
+
 /usr/include/bits/floatn.h:
 
 /usr/include/c++/16/bits/vector.tcc:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/tsxldtrkintrin.h:
 
 /usr/include/opencv5/opencv2/flann/miniflann.hpp:
 
@@ -1625,10 +1358,6 @@ CMakeFiles/BadApple.dir/main.cpp.o:
 
 /usr/include/alloca.h:
 
-/usr/include/bits/stdlib-bsearch.h:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/avx512dqintrin.h:
-
 /usr/include/c++/16/bits/stl_map.h:
 
 /usr/include/c++/16/bits/quoted_string.h:
@@ -1637,9 +1366,7 @@ CMakeFiles/BadApple.dir/main.cpp.o:
 
 /usr/include/c++/16/bits/stl_multiset.h:
 
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/libstdc++.so:
-
-/usr/include/bits/posix2_lim.h:
+/usr/include/asm-generic/errno-base.h:
 
 /usr/include/c++/16/bits/stl_algo.h:
 
@@ -1651,13 +1378,17 @@ CMakeFiles/BadApple.dir/main.cpp.o:
 
 /usr/include/opencv5/opencv2/videoio.hpp:
 
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/avxvnniint8intrin.h:
-
 /usr/include/bits/mathcalls-macros.h:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/16/libatomic.so:
 
 /usr/include/c++/16/bits/cxxabi_init_exception.h:
 
 /usr/include/bits/long-double.h:
+
+/usr/lib/libhogweed.so.7:
+
+/usr/include/c++/16/bits/ptr_traits.h:
 
 /usr/lib/libvpl.so.2:
 
@@ -1671,19 +1402,11 @@ CMakeFiles/BadApple.dir/main.cpp.o:
 
 /usr/include/c++/16/tr1/exp_integral.tcc:
 
-/usr/include/c++/16/bits/ranges_util.h:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/adxintrin.h:
-
 /usr/include/bits/types/clockid_t.h:
 
 /usr/include/c++/16/bits/stl_heap.h:
 
 /usr/include/c++/16/bits/codecvt.h:
-
-/usr/lib/libOpenEXRCore-3_4.so.33:
-
-/usr/include/opencv5/opencv2/core/hal/interface.h:
 
 /usr/lib/libva-x11.so.2:
 
@@ -1694,6 +1417,8 @@ CMakeFiles/BadApple.dir/main.cpp.o:
 /usr/include/bits/byteswap.h:
 
 /usr/include/c++/16/stdlib.h:
+
+/usr/lib/libOpenCL.so.1:
 
 /usr/include/bits/typesizes.h:
 
@@ -1745,25 +1470,27 @@ CMakeFiles/BadApple.dir/main.cpp.o:
 
 /usr/include/opencv5/opencv2/photo/ccm.hpp:
 
+/usr/lib/gcc/x86_64-pc-linux-gnu/16/crtendS.o:
+
 /usr/include/bits/types/__mbstate_t.h:
 
 /usr/include/bits/flt-eval-method.h:
 
+/usr/include/bits/posix2_lim.h:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/16/libstdc++.so:
+
 /usr/include/linux/posix_types.h:
 
-/usr/lib/libXau.so.6:
-
-/usr/include/c++/16/bits/nested_exception.h:
-
-/usr/lib/libQt6Widgets.so.6:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/avx10_2bf16intrin.h:
+/usr/lib/libavcodec.so.63:
 
 /usr/include/opencv5/opencv2/stitching/detail/exposure_compensate.hpp:
 
 /usr/include/opencv5/opencv2/opencv_modules.hpp:
 
 /usr/include/bits/types/__fpos64_t.h:
+
+/usr/include/c++/16/string_view:
 
 /usr/lib/libQt6Gui.so.6:
 
@@ -1779,8 +1506,6 @@ CMakeFiles/BadApple.dir/main.cpp.o:
 
 /usr/include/bits/mathcalls.h:
 
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/f16cintrin.h:
-
 /usr/include/c++/16/list:
 
 /usr/lib/libxcb-xfixes.so.0:
@@ -1792,8 +1517,6 @@ CMakeFiles/BadApple.dir/main.cpp.o:
 /usr/include/bits/types/clock_t.h:
 
 /usr/include/c++/16/bits/stl_tempbuf.h:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/sm4intrin.h:
 
 /usr/include/ctype.h:
 
@@ -1819,10 +1542,6 @@ CMakeFiles/BadApple.dir/main.cpp.o:
 
 /usr/include/opencv5/opencv2/objdetect/charuco_detector.hpp:
 
-/usr/lib/libasound.so.2:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/amxint8intrin.h:
-
 /usr/lib/libjxl.so.0.12:
 
 /usr/include/c++/16/bits/std_abs.h:
@@ -1838,10 +1557,6 @@ CMakeFiles/BadApple.dir/main.cpp.o:
 /usr/include/bits/types/struct_itimerspec.h:
 
 /usr/include/bits/types/struct_timespec.h:
-
-/usr/lib/libX11.so.6:
-
-/usr/include/opencv5/opencv2/core/version.hpp:
 
 /usr/include/opencv5/opencv2/imgcodecs.hpp:
 
@@ -1865,19 +1580,15 @@ CMakeFiles/BadApple.dir/main.cpp.o:
 
 /usr/include/c++/16/bits/cpp_type_traits.h:
 
+/usr/include/c++/16/x86_64-pc-linux-gnu/bits/c++config.h:
+
+/usr/lib/libbluray.so.3:
+
 /usr/include/bits/wordsize.h:
 
 /usr/include/stdio.h:
 
 /usr/include/c++/16/bits/uses_allocator_args.h:
-
-/usr/include/c++/16/bits/stdexcept_throw.h:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/clflushoptintrin.h:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/amxfp16intrin.h:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/movrsintrin.h:
 
 /usr/include/c++/16/bits/ranges_base.h:
 
@@ -1891,7 +1602,9 @@ CMakeFiles/BadApple.dir/main.cpp.o:
 
 /usr/include/c++/16/bits/ranges_algo.h:
 
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/avx512vp2intersectvlintrin.h:
+/usr/lib/libwebpmux.so.3:
+
+/usr/lib/libOpenGL.so.0:
 
 /usr/include/c++/16/cfloat:
 
@@ -1908,10 +1621,6 @@ CMakeFiles/BadApple.dir/main.cpp.o:
 /usr/include/asm-generic/errno.h:
 
 /usr/include/sys/single_threaded.h:
-
-/usr/include/c++/16/format:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/amxtf32intrin.h:
 
 /usr/lib32/libffi.so.8:
 
@@ -1932,8 +1641,6 @@ CMakeFiles/BadApple.dir/main.cpp.o:
 /usr/lib/libopencv_highgui.so.5.0.0:
 
 /usr/include/bits/time64.h:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/clwbintrin.h:
 
 /usr/lib32/libblkid.so.1:
 
@@ -1961,39 +1668,17 @@ CMakeFiles/BadApple.dir/main.cpp.o:
 
 /usr/include/c++/16/bits/atomic_lockfree_defines.h:
 
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/avx512bitalgvlintrin.h:
+/usr/lib/libQt6Core.so.6:
 
 /usr/include/bits/libm-simd-decl-stubs.h:
 
 /usr/include/c++/16/bits/list.tcc:
 
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/stdint.h:
-
-/usr/include/c++/16/bits/basic_string.h:
-
-/usr/lib/libc.so.6:
-
-/usr/include/c++/16/bits/stl_raw_storage_iter.h:
-
-/usr/include/bits/fp-fast.h:
-
 /usr/include/asm-generic/int-ll64.h:
 
 /usr/include/c++/16/tr1/hypergeometric.tcc:
 
-/usr/lib/libQt6DBus.so.6:
-
-/usr/include/c++/16/bits/hashtable.h:
-
-/usr/include/sched.h:
-
 /usr/include/wctype.h:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/avx10_2convertintrin.h:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/popcntintrin.h:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/keylockerintrin.h:
 
 /usr/include/c++/16/bits/chrono.h:
 
@@ -2004,12 +1689,6 @@ CMakeFiles/BadApple.dir/main.cpp.o:
 /usr/include/c++/16/x86_64-pc-linux-gnu/bits/atomic_word.h:
 
 /usr/include/c++/16/bits/exception_ptr.h:
-
-/usr/lib/libFLAC.so.14:
-
-/usr/lib/libgcc_s.so.1:
-
-/usr/include/opencv5/opencv2/core/optim.hpp:
 
 /usr/include/c++/16/bits/std_function.h:
 
@@ -2029,8 +1708,6 @@ CMakeFiles/BadApple.dir/main.cpp.o:
 
 /usr/include/c++/16/bits/concept_check.h:
 
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/movdirintrin.h:
-
 /usr/include/opencv5/opencv2/flann/dynamic_bitset.h:
 
 /usr/include/bits/types/struct_sched_param.h:
@@ -2045,8 +1722,6 @@ CMakeFiles/BadApple.dir/main.cpp.o:
 
 /usr/include/c++/16/bits/utility.h:
 
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/amxtileintrin.h:
-
 /usr/include/c++/16/bits/hash_bytes.h:
 
 /usr/include/c++/16/bits/erase_if.h:
@@ -2056,6 +1731,10 @@ CMakeFiles/BadApple.dir/main.cpp.o:
 /usr/lib/libgstbase-1.0.so.0:
 
 /usr/include/c++/16/functional:
+
+/usr/include/opencv5/opencv2/core/hal/interface.h:
+
+/usr/lib/libOpenEXRCore-3_4.so.33:
 
 /usr/include/c++/16/chrono:
 
@@ -2073,17 +1752,19 @@ CMakeFiles/BadApple.dir/main.cpp.o:
 
 /usr/include/c++/16/iostream:
 
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/avx10_2minmaxintrin.h:
-
 /usr/include/c++/16/bits/shared_ptr_atomic.h:
 
 /usr/include/opencv5/opencv2/core/utility.hpp:
 
 /usr/include/c++/16/istream:
 
+/usr/include/c++/16/limits:
+
 /usr/include/c++/16/locale:
 
 /usr/include/opencv5/opencv2/core/base.hpp:
+
+/usr/lib/libSPIRV-Tools.so:
 
 /usr/include/c++/16/math.h:
 
@@ -2099,6 +1780,8 @@ CMakeFiles/BadApple.dir/main.cpp.o:
 
 /usr/include/c++/16/pstl/glue_memory_defs.h:
 
+/usr/include/c++/16/ratio:
+
 /usr/include/c++/16/set:
 
 /usr/include/c++/16/bits/stl_iterator_base_types.h:
@@ -2107,9 +1790,9 @@ CMakeFiles/BadApple.dir/main.cpp.o:
 
 /usr/include/c++/16/span:
 
-/usr/lib/libXv.so.1:
-
 /usr/include/c++/16/bits/stdexcept_throwfwd.h:
+
+/usr/lib/libXv.so.1:
 
 /usr/include/opencv5/opencv2/flann/defines.h:
 
@@ -2139,9 +1822,9 @@ CMakeFiles/BadApple.dir/main.cpp.o:
 
 /usr/include/c++/16/tr1/legendre_function.tcc:
 
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/avx512vldqintrin.h:
-
 /usr/include/c++/16/tr1/modified_bessel_func.tcc:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/16/libgcc_s.so:
 
 /usr/lib32/libxml2.so.16:
 
@@ -2149,21 +1832,17 @@ CMakeFiles/BadApple.dir/main.cpp.o:
 
 /usr/include/opencv5/opencv2/objdetect/barcode.hpp:
 
-/usr/lib/libopencv_flann.so.5.0.0:
-
-/usr/lib/libEGL.so.1:
-
-/usr/include/c++/16/cctype:
-
-/usr/include/bits/posix1_lim.h:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/mm_malloc.h:
-
 /usr/include/c++/16/tr1/special_function_util.h:
 
 /usr/include/c++/16/tuple:
 
 /usr/include/opencv5/opencv2/flann/heap.h:
+
+/usr/include/c++/16/bits/stl_raw_storage_iter.h:
+
+/usr/include/bits/fp-fast.h:
+
+/usr/lib/libc.so.6:
 
 /usr/lib32/libtasn1.so.6:
 
@@ -2177,13 +1856,17 @@ CMakeFiles/BadApple.dir/main.cpp.o:
 
 /usr/include/c++/16/x86_64-pc-linux-gnu/bits/c++locale.h:
 
+/usr/lib/libgstapp-1.0.so.0:
+
+/usr/include/c++/16/bits/stl_uninitialized.h:
+
+/usr/include/c++/16/cstring:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/stdarg.h:
+
 /usr/lib/libsamplerate.so.0:
 
 /usr/include/c++/16/x86_64-pc-linux-gnu/bits/cpu_defines.h:
-
-/usr/lib/libSPIRV-Tools.so:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/lzcntintrin.h:
 
 /usr/lib/libx265.so.217:
 
@@ -2198,10 +1881,6 @@ CMakeFiles/BadApple.dir/main.cpp.o:
 /usr/include/c++/16/x86_64-pc-linux-gnu/bits/gthr.h:
 
 /usr/include/c++/16/x86_64-pc-linux-gnu/bits/messages_members.h:
-
-/usr/include/asm/bitsperlong.h:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/avx10_2copyintrin.h:
 
 /usr/include/c++/16/bits/basic_string.tcc:
 
@@ -2241,6 +1920,12 @@ CMakeFiles/BadApple.dir/main.cpp.o:
 
 /usr/include/locale.h:
 
+/usr/lib/libv4lconvert.so.0:
+
+/usr/lib/libaom.so.3:
+
+/usr/lib/libavdevice.so.63:
+
 /usr/include/math.h:
 
 /usr/include/opencv5/opencv2/core/affine.hpp:
@@ -2271,6 +1956,8 @@ CMakeFiles/BadApple.dir/main.cpp.o:
 
 /usr/include/opencv5/opencv2/flann/timer.h:
 
+/usr/lib/libasound.so.2:
+
 /usr/lib/libxcb-shape.so.0:
 
 /usr/include/opencv5/opencv2/core/cvstd_wrapper.hpp:
@@ -2294,8 +1981,6 @@ CMakeFiles/BadApple.dir/main.cpp.o:
 /usr/include/c++/16/bits/unicode.h:
 
 /usr/include/opencv5/opencv2/core/neon_utils.hpp:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/avxifmaintrin.h:
 
 /usr/lib/libvorbisenc.so.2:
 
@@ -2339,29 +2024,43 @@ CMakeFiles/BadApple.dir/main.cpp.o:
 
 /usr/include/opencv5/opencv2/stitching.hpp:
 
+/usr/include/c++/16/bits/allocated_ptr.h:
+
+/usr/lib/libavc1394.so.0:
+
 /usr/include/c++/16/bits/this_thread_sleep.h:
 
 /usr/include/opencv5/opencv2/flann/config.h:
 
 /usr/include/opencv5/opencv2/flann/flann_base.hpp:
 
-/usr/include/asm-generic/errno-base.h:
+/usr/include/c++/16/bits/nested_exception.h:
 
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/cmpccxaddintrin.h:
+/usr/lib/libXau.so.6:
 
 /usr/include/c++/16/deque:
 
 main.cpp:
 
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/amxfp8intrin.h:
-
 /usr/include/c++/16/clocale:
 
 /usr/include/opencv5/opencv2/flann/general.h:
 
+/usr/lib/libblkid.so.1:
+
 /usr/include/opencv5/opencv2/flann/hierarchical_clustering_index.h:
 
 /usr/include/opencv5/opencv2/flann/index_testing.h:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/xmmintrin.h:
+
+/usr/lib32/libexpat.so.1:
+
+/usr/lib/crti.o:
+
+/usr/include/opencv5/opencv2/flann/kdtree_single_index.h:
+
+/usr/lib/libXext.so.6:
 
 /usr/include/opencv5/opencv2/flann/linear_index.h:
 
@@ -2370,10 +2069,6 @@ main.cpp:
 /usr/include/c++/16/bits/binders.h:
 
 /usr/include/opencv5/opencv2/flann/matrix.h:
-
-/usr/include/opencv5/opencv2/stitching/detail/matchers.hpp:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/avx512bmmvlintrin.h:
 
 /usr/include/opencv5/opencv2/flann/nn_index.h:
 
@@ -2387,21 +2082,25 @@ main.cpp:
 
 /usr/include/opencv5/opencv2/imgproc.hpp:
 
-/usr/include/c++/16/limits:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/avx512vbmi2intrin.h:
-
 /usr/include/opencv5/opencv2/objdetect/aruco_dictionary.hpp:
+
+/usr/lib/libIlmThread-3_4.so.33:
 
 /usr/include/opencv5/opencv2/objdetect/face.hpp:
 
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/float.h:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/amxcomplexintrin.h:
-
 /usr/include/opencv5/opencv2/objdetect/mcc_checker_detector.hpp:
 
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/fmaintrin.h:
+/usr/lib32/libXau.so.6:
+
+/usr/lib/liblcms2.so.2:
+
+/usr/lib/libIex-3_4.so.33:
+
+/usr/lib/libbz2.so.1.0:
+
+/usr/include/opencv5/opencv2/photo/segmentation.hpp:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/float.h:
 
 /usr/include/c++/16/bits/locale_facets_nonio.tcc:
 
@@ -2415,15 +2114,9 @@ main.cpp:
 
 /usr/include/opencv5/opencv2/stitching/detail/warpers.hpp:
 
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/amxmovrsintrin.h:
-
 /usr/include/bits/types/FILE.h:
 
 /usr/include/opencv5/opencv2/stitching/detail/motion_estimators.hpp:
-
-/usr/include/bits/mathcalls-narrow.h:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/avx512fp16intrin.h:
 
 /usr/include/opencv5/opencv2/stitching/detail/util.hpp:
 
@@ -2449,122 +2142,114 @@ main.cpp:
 
 /usr/include/time.h:
 
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/amxavx512intrin.h:
+/usr/lib/libvulkan.so.1:
 
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/avx10_2mediaintrin.h:
+/usr/include/c++/16/bits/sstream.tcc:
 
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/avx10_2satcvtintrin.h:
-
-/usr/lib/libavc1394.so.0:
-
-/usr/include/c++/16/bits/allocated_ptr.h:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/avx512bf16intrin.h:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/avx512bf16vlintrin.h:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/avx512vpopcntdqvlintrin.h:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/avx512bitalgintrin.h:
-
-/usr/include/bits/types/time_t.h:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/avx512bmmintrin.h:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/hresetintrin.h:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/bmiintrin.h:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/avx512bwintrin.h:
-
-/usr/lib/libblkid.so.1:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/avx512cdintrin.h:
-
-/usr/lib32/libdw.so.1:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/avx512fintrin.h:
-
-/usr/lib/libhogweed.so.7:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/prfchwintrin.h:
-
-/usr/include/c++/16/bits/ptr_traits.h:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/avx512fp16vlintrin.h:
-
-/usr/include/c++/16/ratio:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/avx512ifmavlintrin.h:
-
-/usr/lib/libQt6OpenGLWidgets.so.6:
-
-/usr/include/c++/16/ext/concurrence.h:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/avx512vbmiintrin.h:
-
-/usr/lib/libharfbuzz.so.0:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/avx512vbmivlintrin.h:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/avx512vlbwintrin.h:
-
-/usr/lib/libbz2.so.1.0:
-
-/usr/include/opencv5/opencv2/photo/segmentation.hpp:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/avx512vlintrin.h:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/avx512vnnivlintrin.h:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/avx512vp2intersectintrin.h:
-
-/usr/include/opencv5/opencv2/flann/kdtree_single_index.h:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/avx512vpopcntdqintrin.h:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/avxintrin.h:
-
-/usr/include/c++/16/semaphore:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/avxneconvertintrin.h:
-
-/usr/lib/libQt6Core.so.6:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/avxvnniint16intrin.h:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/avxvnniintrin.h:
-
-/usr/include/c++/16/string_view:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/bmi2intrin.h:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/cetintrin.h:
-
-/usr/lib/libglib-2.0.so.0:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/cldemoteintrin.h:
-
-/usr/include/c++/16/bits/postypes.h:
-
-/usr/include/opencv5/opencv2/opencv.hpp:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/clzerointrin.h:
+/usr/lib/libOpenEXR-3_4.so.33:
 
 /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/emmintrin.h:
 
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/enqcmdintrin.h:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/avx512vnniintrin.h:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/gfniintrin.h:
-
-/usr/lib/libpangoft2-1.0.so.0:
-
-/usr/include/opencv5/opencv2/core/check.hpp:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/ia32intrin.h:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/immintrin.h:
-
 /usr/lib/gcc/x86_64-pc-linux-gnu/16/include/mmintrin.h:
+
+/usr/include/c++/16/bits/basic_string.h:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/stdint.h:
+
+/usr/lib/Scrt1.o:
+
+/usr/lib/libFLAC.so.14:
+
+/usr/include/opencv5/opencv2/core/optim.hpp:
+
+/usr/lib/libgcc_s.so.1:
+
+/usr/lib/libm.so:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/16/libgcc.a:
+
+/usr/lib/libtasn1.so.6:
+
+/usr/lib/ld-linux-x86-64.so.2:
+
+/usr/lib/libopencv_flann.so.5.0.0:
+
+/usr/include/c++/16/cctype:
+
+/usr/include/bits/posix1_lim.h:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/mm_malloc.h:
+
+/usr/lib/libEGL.so.1:
+
+/usr/lib/libffi.so.8:
+
+/usr/lib/libGL.so.1:
+
+/usr/lib/libGLX.so.0:
+
+/usr/include/c++/16/bits/hashtable.h:
+
+/usr/include/sched.h:
+
+/usr/lib/libQt6DBus.so.6:
+
+/usr/lib/libQt6OpenGL.so.6:
+
+/usr/include/c++/16/ext/concurrence.h:
+
+/usr/lib/libQt6OpenGLWidgets.so.6:
+
+/usr/lib/libxcb.so.1:
+
+/usr/lib/libQt6Test.so.6:
+
+/usr/lib/libQt6Widgets.so.6:
+
+/usr/lib/libSPIRV-Tools-opt.so:
+
+/usr/lib/libglslang-default-resource-limits.so.16:
+
+/usr/lib/libX11-xcb.so.1:
+
+/usr/include/opencv5/opencv2/core/version.hpp:
+
+/usr/lib/libX11.so.6:
+
+/usr/lib/libXdmcp.so.6:
+
+/usr/lib/libXrender.so.1:
+
+/usr/include/c++/16/bits/ostream.h:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/16/include/syslimits.h:
+
+/usr/lib/libass.so.9:
+
+/usr/lib/libasyncns.so.0:
+
+/usr/lib/libavfilter.so.12:
+
+/usr/lib/libbrotlienc.so.1:
+
+/usr/lib/libavformat.so.63:
+
+/usr/lib/libavutil.so.61:
+
+/usr/lib/libb2.so.1:
+
+/usr/lib/libblas.so.3:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/16/libatomic_asneeded.so:
+
+/usr/lib/libbrotlidec.so.1:
+
+/usr/lib/libbs2b.so.0:
+
+/usr/lib/libbsd.so.0:
+
+/usr/include/c++/16/bits/uniform_int_dist.h:
+
+/usr/include/c++/16/bits/ostream.tcc:
+
+/usr/lib/libc_nonshared.a:
