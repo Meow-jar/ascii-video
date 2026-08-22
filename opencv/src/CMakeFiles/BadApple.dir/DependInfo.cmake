@@ -8,6 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/home/monika/c++/opencv/src/miniaudio.c" "CMakeFiles/BadApple.dir/miniaudio.c.o" "gcc" "CMakeFiles/BadApple.dir/miniaudio.c.o.d"
   "/home/monika/c++/opencv/src/main.cpp" "CMakeFiles/BadApple.dir/main.cpp.o" "gcc" "CMakeFiles/BadApple.dir/main.cpp.o.d"
   "" "bin/BadApple" "gcc" "CMakeFiles/BadApple.dir/link.d"
   )

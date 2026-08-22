@@ -85,12 +85,12 @@ clean: CMakeFiles/BadApple.dir/clean
 CMakeFiles/BadApple.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/BadApple.dir/build.make CMakeFiles/BadApple.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/BadApple.dir/build.make CMakeFiles/BadApple.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/monika/c++/opencv/src/CMakeFiles --progress-num=1,2 "Built target BadApple"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/monika/c++/opencv/src/CMakeFiles --progress-num=1,2,3 "Built target BadApple"
 .PHONY : CMakeFiles/BadApple.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/BadApple.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/monika/c++/opencv/src/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/monika/c++/opencv/src/CMakeFiles 3
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/BadApple.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/monika/c++/opencv/src/CMakeFiles 0
 .PHONY : CMakeFiles/BadApple.dir/rule
@@ -102,7 +102,7 @@ BadApple: CMakeFiles/BadApple.dir/rule
 # codegen rule for target.
 CMakeFiles/BadApple.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/BadApple.dir/build.make CMakeFiles/BadApple.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/monika/c++/opencv/src/CMakeFiles --progress-num=1,2 "Finished codegen for target BadApple"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/monika/c++/opencv/src/CMakeFiles --progress-num=1,2,3 "Finished codegen for target BadApple"
 .PHONY : CMakeFiles/BadApple.dir/codegen
 
 # clean rule for target.

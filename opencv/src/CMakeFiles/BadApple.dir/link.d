@@ -3,6 +3,7 @@ bin/BadApple: \
   /usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib/crti.o \
   /usr/lib/gcc/x86_64-pc-linux-gnu/16/crtbeginS.o \
   CMakeFiles/BadApple.dir/main.cpp.o \
+  CMakeFiles/BadApple.dir/miniaudio.c.o \
   /usr/lib/libopencv_highgui.so.5.0.0 \
   /usr/lib/libopencv_videoio.so.5.0.0 \
   /usr/lib/libopencv_imgcodecs.so.5.0.0 \
@@ -299,6 +300,8 @@ bin/BadApple: \
 /usr/lib/gcc/x86_64-pc-linux-gnu/16/crtbeginS.o:
 
 CMakeFiles/BadApple.dir/main.cpp.o:
+
+CMakeFiles/BadApple.dir/miniaudio.c.o:
 
 /usr/lib/libopencv_highgui.so.5.0.0:
 

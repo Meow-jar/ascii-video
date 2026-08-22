@@ -361,4 +361,5 @@ CMakeFiles/BadApple.dir/main.cpp.o: /home/monika/c++/opencv/src/main.cpp \
  /usr/include/c++/16/atomic /usr/include/c++/16/bits/std_thread.h \
  /usr/include/c++/16/semaphore /usr/include/c++/16/bits/semaphore_base.h \
  /usr/include/c++/16/bits/atomic_timed_wait.h \
- /usr/include/c++/16/bits/this_thread_sleep.h /usr/include/sys/time.h
+ /usr/include/c++/16/bits/this_thread_sleep.h /usr/include/sys/time.h \
+ /home/monika/c++/opencv/src/miniaudio.h

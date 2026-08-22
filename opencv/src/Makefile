@@ -153,6 +153,30 @@ main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/BadApple.dir/build.make CMakeFiles/BadApple.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+miniaudio.o: miniaudio.c.o
+.PHONY : miniaudio.o
+
+# target to build an object file
+miniaudio.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/BadApple.dir/build.make CMakeFiles/BadApple.dir/miniaudio.c.o
+.PHONY : miniaudio.c.o
+
+miniaudio.i: miniaudio.c.i
+.PHONY : miniaudio.i
+
+# target to preprocess a source file
+miniaudio.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/BadApple.dir/build.make CMakeFiles/BadApple.dir/miniaudio.c.i
+.PHONY : miniaudio.c.i
+
+miniaudio.s: miniaudio.c.s
+.PHONY : miniaudio.s
+
+# target to generate assembly for a file
+miniaudio.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/BadApple.dir/build.make CMakeFiles/BadApple.dir/miniaudio.c.s
+.PHONY : miniaudio.c.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -165,6 +189,9 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... miniaudio.o"
+	@echo "... miniaudio.i"
+	@echo "... miniaudio.s"
 .PHONY : help
 
 

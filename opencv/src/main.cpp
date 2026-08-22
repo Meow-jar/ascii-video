@@ -4,9 +4,30 @@
 #include <vector>
 #include <chrono>
 #include <thread>
+#include "miniaudio.h"
+
+int audio()
+{
+    ma_result result;
+    ma_engine engine;
+
+    result = ma_engine_init(NULL, &engine);
+    if (result != MA_SUCCESS) {
+        return -1;
+    }
+
+    ma_engine_play_sound(&engine, "audio.mp3", NULL);
+
+    getchar();
+
+    ma_engine_uninit(&engine);
+
+    return 0;
+}
+
 int main() 
 {       
-	cv::VideoCapture cap("/home/monika/Загрузки/badapplescale.mp4");
+	cv::VideoCapture cap("video.mp4");
 	cv::Mat frame;
 
 	cap>>frame;
@@ -14,6 +35,8 @@ int main()
 	std::string matrix = "";
 	matrix.reserve(frame.rows * frame.cols);
 
+        const char* gradient = " .:-=+*#%@";
+	std::thread th(audio);
 	while (1)
 	{
 		std::this_thread::sleep_for(std::chrono::milliseconds(33));
@@ -32,6 +55,9 @@ int main()
                                 //int color = round((pixel[0] + pixel[1] + pixel[2]) / 3.0);
 
 				int color = ((pixel[c][0] + pixel[c][1] + pixel[c][2]) / 3.0);
+                                 
+                                matrix += gradient[color / 26];
+                                /*
                                 if(color >= 255)
                                 { 
                                         matrix += "@";
@@ -52,15 +78,18 @@ int main()
 				{
 					matrix += ".";
 				}
+                                */
 
                         }
 
 
                 }
-                std::cout<<matrix<<std::endl;
+		std::cout<<matrix<<std::flush;
 		matrix.clear();
+		
 
 
 	}
+	th.join();
 	return 0;
 }

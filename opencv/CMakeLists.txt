@@ -3,6 +3,7 @@ PROJECT (BadApple)
 find_package(OpenCV REQUIRED COMPONENTS core imgproc highgui imgcodecs)
 set( NAME_SRC
     src/main.cpp
+    src/miniaudio.c
 )
 add_compile_options(-O3)
 
