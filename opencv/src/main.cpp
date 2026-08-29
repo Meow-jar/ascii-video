@@ -57,28 +57,6 @@ int main()
 				int color = ((pixel[c][0] + pixel[c][1] + pixel[c][2]) / 3.0);
                                  
                                 matrix += gradient[color / 26];
-                                /*
-                                if(color >= 255)
-                                { 
-                                        matrix += "@";
-                                }
-                                else if(color >= 204)
-                                {
-                                        matrix += "#";
-                                }
-				else if(color >= 153)
-				{
-					matrix += "*";
-				}
-				else if(color >= 102)
-				{
-					matrix += "+";
-				}
-				else
-				{
-					matrix += ".";
-				}
-                                */
 
                         }
 
